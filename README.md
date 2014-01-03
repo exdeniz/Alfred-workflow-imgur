@@ -6,7 +6,7 @@ Compress and Upload to imgur with Alfred Workflow
 
 ### Use
 
-Install and press Cmd+Shift+4, capture zone, wait notification and paste from clipboard
+Install and setup hotkeys (Cmd+Shift+4 for me), capture zone, wait notification and paste from clipboard
 
 #### Credit
 
