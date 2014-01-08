@@ -8,6 +8,12 @@ Compress and Upload to imgur with Alfred Workflow
 
 Install and setup hotkeys (Cmd+Shift+4 for me), capture zone, wait notification and paste from clipboard
 
+
+### History
+
+0.2 - fix screenshots with shadow.
+
+
 #### Credit
 
 For image optimize
